@@ -188,10 +188,7 @@ La implementación de estas medidas garantiza la confidencialidad, integridad y 
 Los gestores de bases de datos constituyen una tecnología indispensable para el manejo eficiente de la información en la sociedad actual. Su capacidad para organizar, almacenar, proteger y recuperar datos permite que empresas, instituciones educativas, hospitales y organismos gubernamentales desarrollen sus actividades con mayor eficiencia y confiabilidad. Además de facilitar el acceso a la información, los SGBD fortalecen la seguridad, reducen errores y contribuyen a la automatización de procesos, aspectos esenciales en la transformación digital. Como estudiante de Redes y Telecomunicaciones, considero que conocer el funcionamiento de estos sistemas es fundamental, ya que forman parte de la infraestructura tecnológica utilizada en prácticamente todas las organizaciones. Su correcta implementación garantiza información segura, organizada y disponible para apoyar la toma de decisiones y el desarrollo de nuevos servicios tecnológicos.
 
 ---
-
 # Referencias Bibliográficas
-
-
 1.Coronel, C., & Morris, S. (2020). Database Systems: Design, Implementation, & Management (13.ª ed.). Cengage Learning.
 2.Elmasri, R., & Navathe, S. B. (2017). Fundamentals of Database Systems (7.ª ed.). Pearson.
 3.Silberschatz, A., Korth, H. F., & Sudarshan, S. (2020). Database System Concepts (7.ª ed.). McGraw-Hill Education. 
